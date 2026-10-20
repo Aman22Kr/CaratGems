@@ -1,0 +1,6 @@
+{
+  "name": "CaratGems - Modern Fine Diamond Jewellery",
+  "description": "Recreation of CaratLane as CaratGems, featuring fine diamond jewellery, Try at Home booking, custom gold karat and diamond selectors, store locator, and persistent cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
